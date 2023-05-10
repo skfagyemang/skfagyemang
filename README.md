@@ -1,6 +1,4 @@
-I am Felix Agyemang (PhD), a Research Associate at the School of Geographical Sciences, University of Bristol.
-My research is focused on a) understanding and modelling urbanization processes in developing cities, b)
-building tools for simulating and predicting socio-spatial patterns of growth for cities and urban systems; and
-c) informing urban planning and governance practices.
+I am a Lecturer in Spatial Data Science at the Department of Planning and Environmental Management (PEM), University of Manchester.
+My research centers around (1) understanding and modelling urbanisation processes in developing cities, (2) building tools for simulating and predicting socio-spatial patterns of growth for cities and urban systems, and (3) developing advanced machine learning models for generating socio-economic data and predicting living conditions.
 
-Email: felix.agyemang@bristol.ac.uk
+Email: felix.agyemang@manchester.ac.uk
